@@ -1,0 +1,6 @@
+{
+  "name": "example-proxy-provider",
+  "version": "0.0.1",
+  "description": "An example Jancy proxy provider plugin",
+  "main": "src/index.js"
+}
